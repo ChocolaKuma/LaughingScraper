@@ -1,1 +1,1 @@
-# LaughingSpider
+# LaughingScraper
